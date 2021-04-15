@@ -261,18 +261,6 @@ width: 59%;
 	}
 
 
-.right p {
-width: 59%;
-}
-
-.galery img:nth-child(1) {
-	width: 24%;
-}
-.galery img:nth-child(2) {
-	width: 24%;
-}
-.galery img:nth-child(3) {
-	width: 48%;
 
 
 }
@@ -282,18 +270,10 @@ width: 59%;
 		width: 540px;
 	}
 
-.right p {
-width: 59%;
+html{
+	max-width: 100%;
+display: inline-block;
 }
-
-.galery img:nth-child(1) {
-	width: 24%;
-}
-.galery img:nth-child(2) {
-	width: 24%;
-}
-.galery img:nth-child(3) {
-	width: 48%;
 
 
 }
