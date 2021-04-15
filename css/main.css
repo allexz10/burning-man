@@ -274,10 +274,10 @@ header a {
 	.gallery {
 		flex-wrap: wrap;
 	}
-	.footer-text {
+	.date , .name {
 		flex-wrap: wrap;
 	}
-	.footer-text p:nth-child(1) {
+	.date p , .name p:nth-child(1) {
 		margin-bottom: 20px;
 	}
 }
@@ -295,5 +295,8 @@ header a {
 	}
 	.menu-open {
 		margin-left: auto;
+	}
+	.date p {
+		text-align: center;
 	}
 }
